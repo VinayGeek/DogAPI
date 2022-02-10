@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const app = require("./app");
 
 const DataBase =
-  "mongodb+srv://demo:mongoDB@cluster0.4unia.mongodb.net/Dog?retryWrites=true&w=majority";
+  "mongodb+srv://demo:*******************/Dog?retryWrites=true&w=majority";
 
 mongoose
   .connect(DataBase, {
