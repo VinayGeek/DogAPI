@@ -26,47 +26,5 @@
     "description": "The Shiba Inu is a good family dog, as long as he is raised properly and receives training and proper socialization when he's young. He gets along with children who treat him kindly and respectfully.",
     "height": 40,
     "image": "https://www.thesprucepets.com/thmb/zY3HlLW8_ttejrOx2MlsNGcfLRo=/1414x1414/smart/filters:no_upscale()/EricVanderVeken500pxGettyImages-1068094978-9df2fa51da8749488b7d0b653fec8030.jpg"
-  },
-  {
-    "name": "Jerman seaford",
-    "price": 24,
-    "description": "German shepherds can be very gentle companions and family protectors with proper training and socialization. It's an ideal breed for active households. The intelligence and protective demeanor of this breed can make it a good choice for families with children as long as the dog is properly trained.",
-    "height": 50,
-    "image": "https://dynamic-image-resizer.sharechat.com/imageResizer/6aab158e-72bc-42f7-a229-3b8556c26b1b-293e10e7-98ef-4e24-8908-050f4c50b283"
-  },
-  {
-    "name": "Boxer",
-    "price": 24,
-    "description": "Boxers are considered working dogs, But they are also bred to be companion and guard dogs, perhaps best known for being loyal family pets that are especially fond of children.",
-    "height": 58,
-    "image": "https://www.thesprucepets.com/thmb/cFiqHiR52qDwRxmKV3hU0xRe-JY=/1885x1414/smart/filters:no_upscale()/GettyImages-6704721801-32a58d608fb145578158d40f1d131904.jpg"
-  },
-  {
-    "name": "Dachshund",
-    "price": 24,
-    "description": "As family dogs, dachshunds are loyal companions and good watchdogs. They are good with children if treated well. They can be slightly difficult to train. Dachshunds were bred as hunters so it is no surprise that many of them like to dig.",
-    "height": 25,
-    "image": "https://s36700.pcdn.co/wp-content/uploads/2018/06/Miniature-Dachshund-dog-breed-2-600x400.jpg.optimal.jpg"
-  },
-  {
-    "name": "clumber",
-    "price": 24,
-    "description": "Noun. 1. clumber - a thickset spaniel with longish silky hair. clumber spaniel. spaniel - any of several breeds of small to medium-sized gun dogs with a long silky coat and long frilled ears.",
-    "height": 50,
-    "image": "https://dogexpress.in/wp-content/uploads/2016/04/clumber-spaniel1.jpg"
-  },
-  {
-    "name": "cockapoo",
-    "price": 24,
-    "description": "Cockapoos are generally very friendly and regarded as being good with children, making them a good family pet. They are known to thrive in a family home environment with plenty of attention, socialisation and training.",
-    "height": 46,
-    "image": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2021%2F05%2F18%2Fcockapoo-red-colored-greenery-223686877-2000.jpg"
-  },
-  {
-    "name": "great Dane",
-    "price": 24,
-    "description": "Great Danes are considered gentle giants. They are moderately playful, affectionate and good with children. Great Danes generally get along with other animals, particularly if raised with them, but some individuals in the breed can be aggressive with dogs they do not know.",
-    "height": 86,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Dogge_Odin.jpg"
   }
 ]
